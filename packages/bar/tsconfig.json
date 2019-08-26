@@ -14,7 +14,8 @@
     
     "alwaysStrict": true,
     "rootDir": "src",
-    "tsBuildInfoFile": "lib/tsconfig.tsbuildinfo"
+    "tsBuildInfoFile": "lib/tsconfig.tsbuildinfo",
+    "emitDeclarationOnly": true
   }
   
 }
